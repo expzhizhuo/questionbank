@@ -9,6 +9,8 @@
 > 另外提供110W条网课题库数据供大家使用，涵盖目前所有的网课类型的答案
 >
 > 下载地址：[wk_question_new_20220107.sql-MySQL文档类资源-CSDN文库](https://download.csdn.net/download/weixin_43726881/75072223?spm=1001.2014.3001.5503)
+>
+> 2022年最新的网课题库数据：[2022年最新网课数据11万条，涵盖最新的所有课程-MySQL文档类资源-CSDN文库](https://download.csdn.net/download/weixin_43726881/85105940)
 
 ## 二次开发
 
@@ -154,6 +156,7 @@ npm start 或者 cnpm start 或者 yarn start
 题库数据库的部分题库数据下载链接
 
 [wk_question_new_20220107.sql-MySQL文档类资源-CSDN文库](https://download.csdn.net/download/weixin_43726881/75072223?spm=1001.2014.3001.5503)
+2022年最新的网课题库数据：[2022年最新网课数据11万条，涵盖最新的所有课程-MySQL文档类资源-CSDN文库](https://download.csdn.net/download/weixin_43726881/85105940)
 
 本项目中的/api/cx是配合油猴脚本使用的，目前市面上的所有公开脚本都可以适配只需要修改api接口和传送的相关参数就可以
 目前线上使用的是第四版程序，支持微信公众号查体的，支持自定义token使用时长，自定义用户权限等
